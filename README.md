@@ -1,6 +1,6 @@
 # KmerCountHadoop
 
-Jar file for Hadoop big data service I created to run on GCP.
+Jar file for Hadoop service I created to run on GCP.
 
 Used the chromosome data from this source https://hgdownload.soe.ucsc.edu/goldenPath/hg38/chromosomes/
 
